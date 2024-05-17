@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app_bloc_demo/styles/xcolors.dart';
+import '../styles/xcolors.dart';
 
 const TextStyle titleStyle = TextStyle(
   fontSize: 24,
