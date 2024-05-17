@@ -1,7 +1,7 @@
 # flutter_app_bloc_demo
 
-A new Flutter project>
-This is a simple app implements the BloC pattern using Flutter for state management.
+A new Flutter project.
+<h2>This is a simple app implements the BloC pattern using Flutter for state management.</h2>
 
 ## Getting Started
 
